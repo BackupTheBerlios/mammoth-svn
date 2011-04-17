@@ -55,6 +55,7 @@ Friend Class Client
                     Select Case ConnType
                         Case ProtocolIDs.Games : aa = ReadPacket(buff, Stopped)
                     End Select
+                    If Stopped Then Close() : Exit Sub
                     For Each Packet As PacketBase.ReceivePacket In aa
                         Dim INFO = CType(Packet, PacketBase.Receive.AUTH_INFO)
                         Dim LocaleID As Integer = BitConverter.ToInt32(INFO.LocaleID, 0)
