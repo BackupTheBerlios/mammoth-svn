@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mammoth
+</name>
+</assembly>
+<members>
+<member name="T:Intcon.Mammoth.PacketBase.ReceivePacket">
+	<summary>
+ A base class for packets.
+ </summary>
+</member><member name="F:Intcon.Mammoth.PacketBase.Utils.WORD_Length">
+	<summary>
+ A WORD is a byte array with a maximum length of 2 bytes
+ </summary>
+</member><member name="F:Intcon.Mammoth.PacketBase.Utils.DWORD_Length">
+	<summary>
+ A DWORD is a byte array with a maximum length of 4 bytes
+ </summary>
+</member><member name="F:Intcon.Mammoth.PacketBase.Utils.QWORD_Length">
+	<summary>
+ A QWORD is a byte array with a maximum length of 8 bytes
+ </summary>
+</member><member name="F:Intcon.Mammoth.PacketBase.Utils.FileTime_Length">
+	<summary>
+ Filetime is a byte array with a maximum length of 8 bytes
+ </summary>
+</member><member name="M:Intcon.Mammoth.PacketBase.Utils.CreateRandomDWORD">
+	<summary>
+ Gets a random DWORD value.
+ </summary>
+	<returns>A random DWORD value.</returns>
+</member><member name="M:Intcon.Mammoth.PacketBase.Utils.CreateRandomQWORD">
+	<summary>
+ Gets a random QWORD value.
+ </summary>
+	<returns>A random DWORD value.</returns>
+</member><member name="T:Intcon.Mammoth.PacketBase.Utils">
+	<summary>
+ A module providing miscellaneous functions and definitions.
+ </summary>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.FormatPacket(System.Byte[])">
+	<summary>
+ Returns a structure of the packet. Note that you need to convert it in the packets own method. (ex.: CType(FormatPacket, AUTH_INFO))
+ </summary>
+	<param name="Data"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.RemoveFromArray``1(``0[]@,System.Int32)">
+	<summary>
+ Removes an X amount of bounds from the given array.
+ </summary>
+	<typeparam name="T">Type of the array.</typeparam>
+	<param name="Arr">The array to modify.</param>
+	<param name="Length">The length of bounds to remove.</param>
+	<remarks>It reverses the array first so, it's an upside-down removal.</remarks>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.ReadByte(System.Byte[]@)">
+	<summary>
+ Returns a single byte.
+ </summary>
+	<param name="Data">Byte array.</param>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.ReadBytes(System.Byte[]@,System.Int32)">
+	<summary>
+ Returns an array of bytes.
+ </summary>
+	<param name="Data">Byte array.</param>
+	<param name="Length">The length of bytes to return.</param>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.ReadDWORD(System.Byte[]@)">
+	<summary>
+ Returns a DWORD (BYTE[4])
+ </summary>
+	<param name="Data">Byte array.</param>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.ReadQWORD(System.Byte[]@)">
+	<summary>
+ Returns a QWORD (BYTE[8])
+ </summary>
+	<param name="Data">Byte array.</param>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.ReadNTString(System.Byte[]@)">
+	<summary>
+ Returns an ASCII null terminated string.
+ </summary>
+	<param name="Data">Byte array.</param>
+</member><member name="M:Intcon.Mammoth.BNCSPacket.ReadNTWideString(System.Byte[]@)">
+	<summary>
+ Returns an UTF-8 null terminated string.
+ </summary>
+	<param name="Data">Byte array.</param>
+</member><member name="P:Intcon.Mammoth.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Intcon.Mammoth.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Intcon.Mammoth.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Intcon.Mammoth.PacketBase.Receive.CDKeys.HashedKeyData">
+	<summary>
+ A DWORD with 
+ </summary>
+</member><member name="F:Intcon.Mammoth.PacketBase.Send.AUTH_INFO.ServerSignature">
+	<summary>
+ WAR3/W3XP ONLY! 128-byte array.
+ </summary>
+</member>
+</members>
+</doc>

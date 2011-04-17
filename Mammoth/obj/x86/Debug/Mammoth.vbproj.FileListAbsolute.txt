@@ -1,0 +1,11 @@
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\bin\Debug\Terms and Conditions.txt
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\bin\Debug\Mammoth.exe
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\bin\Debug\Mammoth.pdb
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\bin\Debug\Mammoth.xml
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\obj\x86\Debug\Intcon.Mammoth.Resources.resources
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\obj\x86\Debug\Mammoth.exe
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\obj\x86\Debug\Mammoth.xml
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mammoth\obj\x86\Debug\Mammoth.pdb

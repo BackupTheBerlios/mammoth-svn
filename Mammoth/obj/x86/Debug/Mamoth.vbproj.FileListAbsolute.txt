@@ -1,0 +1,20 @@
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\obj\x86\Debug\Mamoth.Resources.resources
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\bin\Debug\Mamoth.exe
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\bin\Debug\Mamoth.pdb
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\bin\Debug\Mamoth.xml
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\obj\x86\Debug\Mamoth.exe
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\obj\x86\Debug\Mamoth.xml
+C:\Users\MusicDemon\AppData\Local\Temporary Projects\Mamoth\obj\x86\Debug\Mamoth.pdb
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\obj\x86\Debug\Mamoth.exe
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\obj\x86\Debug\Mamoth.xml
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\obj\x86\Debug\Mamoth.pdb
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\bin\Debug\Mamoth.exe
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\bin\Debug\Mamoth.pdb
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\bin\Debug\Mamoth.xml
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\obj\x86\Debug\Mamoth.Resources.resources
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2008\Projects\Battle.Net Projects\Mamoth\obj\x86\Debug\GenerateResource.write.1.tlog
